@@ -1,0 +1,16 @@
+.demo {
+    border: 1px solid #000;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+body {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    height: 100vh;
+    border: 1px solid #000;
+}
